@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amrishk03/nodewebapp/issues"
   },
-  "homepage": "https://github.com/amrishk03/nodewebapp#readme"
+  "homepage": "https://github.com/amrishk03/nodewebapp#readme",
+  "dependencies": {
+    "stringbuilder": "0.0.11"
+  }
 }
